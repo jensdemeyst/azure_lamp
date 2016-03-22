@@ -2,4 +2,4 @@
 
 echo "start yum update"
 
-yum update yum
+#yum update yum
