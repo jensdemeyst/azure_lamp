@@ -34,7 +34,7 @@ sudo systemctl start mariadb
 
 echo "creating index.php testfile"
 
-cat <<EOF >index.php
+cat >/var/www/html/index.php <<EOL
 
 <?php
 
