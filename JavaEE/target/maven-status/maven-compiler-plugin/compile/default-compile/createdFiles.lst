@@ -1,0 +1,10 @@
+domain\BankCustomer.class
+service\GenericDao.class
+config\WebConfig.class
+service\GenericDaoJpa.class
+controller\BankController.class
+config\PersistenceJPAConfig.class
+service\JpaBankCustomerDao.class
+domain\BankCustomer_.class
+config\core\SpringMvcInitializer.class
+service\BankCustomerDao.class
